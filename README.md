@@ -1,23 +1,23 @@
 # Projeto-Integrado
-PROJETO INTEGRADO 3 
+## PROJETO INTEGRADO 3 
 
  
 
-Perfil do estágio 
+### Perfil do estágio 
 
 Indicar dois ou três perfis de estágio por ordem de preferência   
 
-Programação Back-End 
+- Programação Back-End 
 
-Web Design 
+- Web Design 
 
-Gestão de Conteúdos 
-
- 
+- Gestão de Conteúdos 
 
  
 
-Proposta de Tecnologias a Estudar de forma autónoma 
+ 
+
+## Proposta de Tecnologias a Estudar de forma autónoma 
 
 O objetivo é completar a formação básica em sala de aula com novos conhecimentos alinhados com o perfil de estágio.  
 
@@ -29,11 +29,9 @@ Coursera, Udemy, Edx, Udacity são plataformas com cursos online a maior parte p
 
  
 
-Certificado Profissional de Microsoft Python Development 
+- [Introdução ao Java e Orientação a objetos]([https://www.example.com](https://www.udemy.com/cart/subscribe/course/2149066/))
 
- 
-
- 
+- [Configurando o ambiente de desenvolvimento em Java]([https://www.example.com](https://www.udemy.com/cart/subscribe/course/2149066/))
 
  
 
