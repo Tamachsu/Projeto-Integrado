@@ -33,7 +33,7 @@ Coursera, Udemy, Edx, Udacity são plataformas com cursos online a maior parte p
 
  
 
-Idéia de projeto a implementar  
+## Idéia de projeto a implementar  
 
 Conceção e implementação de um projeto prático que integre as tecnologias aprendidas de forma autónoma com a formação básica lecionada em sala de aula. 
 
