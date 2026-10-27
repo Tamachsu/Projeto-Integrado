@@ -6,11 +6,11 @@
 
 Indicar dois ou três perfis de estágio por ordem de preferência   
 
-- Programação Back-End 
+1. Programação Back-End 
 
-- Web Design 
+2. Web Design 
 
-- Gestão de Conteúdos 
+3. Gestão de Conteúdos 
 
  
 
