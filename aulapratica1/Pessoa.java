@@ -14,6 +14,10 @@ public class Pessoa {
     	return codigo;
     }
     
+    public void setCodigo(int codigo) {
+    	this.codigo=codigo;
+    }
+    
     public String getNome() {
     	return nome;
     }
