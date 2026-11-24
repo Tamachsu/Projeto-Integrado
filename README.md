@@ -27,10 +27,18 @@ O site freeCodeCamp tem cursos gratuitos com certificação
 Coursera, Udemy, Edx, Udacity são plataformas com cursos online a maior parte pagos 
 
  
-- [ ] [Introdução ao Java e Orientação a objetos](https://www.udemy.com/course/introducao-ao-java-e-orientacao-a-objetos/)
+- [x] [Introdução ao Java e Orientação a objetos](https://www.udemy.com/course/introducao-ao-java-e-orientacao-a-objetos/)
 
 - [ ] [Configurando o ambiente de desenvolvimento em Java](https://www.udemy.com/course/configurando-o-ambiente-de-desenvolvimento-em-java/)
 
+
+
+
+## Comprovativo de Cursos Finalizados
+
+|Introdução ao Java e Orientação a objetos|Configurando o ambiente de desenvolvimento em Java|
+|---|---|
+|<img width="350" height="90" alt="Comprovativo de Curso Finalizado" src="https://github.com/user-attachments/assets/94393013-3c37-412a-8017-069bcda3c295" />| Em Progresso.. |
  
 
 ## Idéia de projeto a implementar  
@@ -40,3 +48,5 @@ Conceção e implementação de um projeto prático que integre as tecnologias a
  
 
 [A PREENCHER PELO ALUNO] 
+
+
