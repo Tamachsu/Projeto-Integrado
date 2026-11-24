@@ -27,7 +27,7 @@ O site freeCodeCamp tem cursos gratuitos com certificação
 Coursera, Udemy, Edx, Udacity são plataformas com cursos online a maior parte pagos 
 
  
-- [ ] [Introdução ao Java e Orientação a objetos](https://www.udemy.com/share/101ujW3@aXRjjEAOD9caZ2u05-C7uYV2QMLzVjykB772iS3cPEqMorkfxs_lpd6V21HnjXilgQ==/))
+- [ ] [Introdução ao Java e Orientação a objetos](https://www.udemy.com/course/introducao-ao-java-e-orientacao-a-objetos/)
 
 - [ ] [Configurando o ambiente de desenvolvimento em Java](https://www.udemy.com/course/configurando-o-ambiente-de-desenvolvimento-em-java/)
 
